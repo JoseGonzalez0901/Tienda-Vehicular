@@ -1,0 +1,17 @@
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\bin\Release\net8.0\VehicleStore.Infrastructure.deps.json
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\bin\Release\net8.0\VehicleStore.Infrastructure.runtimeconfig.json
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\bin\Release\net8.0\VehicleStore.Infrastructure.dll
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\bin\Release\net8.0\VehicleStore.Infrastructure.pdb
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\bin\Release\net8.0\VehicleStore.Core.dll
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\bin\Release\net8.0\VehicleStore.Core.pdb
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\obj\Release\net8.0\VehicleStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\obj\Release\net8.0\VehicleStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\obj\Release\net8.0\VehicleStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\obj\Release\net8.0\VehicleStore.Infrastructure.AssemblyInfo.cs
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\obj\Release\net8.0\VehicleStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\obj\Release\net8.0\VehicleS.E58CAB09.Up2Date
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\obj\Release\net8.0\VehicleStore.Infrastructure.dll
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\obj\Release\net8.0\refint\VehicleStore.Infrastructure.dll
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\obj\Release\net8.0\VehicleStore.Infrastructure.pdb
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\obj\Release\net8.0\VehicleStore.Infrastructure.genruntimeconfig.cache
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Infrastructure\obj\Release\net8.0\ref\VehicleStore.Infrastructure.dll

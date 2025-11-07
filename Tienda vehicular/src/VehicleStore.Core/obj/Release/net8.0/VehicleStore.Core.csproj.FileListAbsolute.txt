@@ -1,0 +1,11 @@
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Core\bin\Release\net8.0\VehicleStore.Core.deps.json
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Core\bin\Release\net8.0\VehicleStore.Core.dll
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Core\bin\Release\net8.0\VehicleStore.Core.pdb
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Core\obj\Release\net8.0\VehicleStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Core\obj\Release\net8.0\VehicleStore.Core.AssemblyInfoInputs.cache
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Core\obj\Release\net8.0\VehicleStore.Core.AssemblyInfo.cs
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Core\obj\Release\net8.0\VehicleStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Core\obj\Release\net8.0\VehicleStore.Core.dll
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Core\obj\Release\net8.0\refint\VehicleStore.Core.dll
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Core\obj\Release\net8.0\VehicleStore.Core.pdb
+C:\Users\joser\Desktop\Proyecto\Tienda vehicular\src\VehicleStore.Core\obj\Release\net8.0\ref\VehicleStore.Core.dll

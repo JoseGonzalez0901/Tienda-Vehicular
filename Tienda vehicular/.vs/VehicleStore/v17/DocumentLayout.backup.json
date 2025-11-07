@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\vehiclestore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\vehiclestore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102FDFEE-55F7-4BA4-AB27-3A8929D2EFEA}|src\\VehicleStore.Infrastructure\\VehicleStore.Infrastructure.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102FDFEE-55F7-4BA4-AB27-3A8929D2EFEA}|src\\VehicleStore.Infrastructure\\VehicleStore.Infrastructure.csproj|solutionrelative:src\\vehiclestore.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\controllers\\filterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\controllers\\filterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\controllers\\vehiclesadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\controllers\\vehiclesadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.core\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|solutionrelative:src\\vehiclestore.core\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.core\\entities\\vehiclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|solutionrelative:src\\vehiclestore.core\\entities\\vehiclemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.core\\entities\\vehiclespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|solutionrelative:src\\vehiclestore.core\\entities\\vehiclespec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\mapping\\vehiclemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\mapping\\vehiclemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\dtos\\vehicledetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\dtos\\vehicledetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\dtos\\vehiclespecsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\dtos\\vehiclespecsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\controllers\\vehiclesfacetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\controllers\\vehiclesfacetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\dtos\\vehiclelistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\dtos\\vehiclelistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|solutionrelative:src\\vehiclestore.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102FDFEE-55F7-4BA4-AB27-3A8929D2EFEA}|src\\VehicleStore.Infrastructure\\VehicleStore.Infrastructure.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.infrastructure\\migrations\\20251106001936_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102FDFEE-55F7-4BA4-AB27-3A8929D2EFEA}|src\\VehicleStore.Infrastructure\\VehicleStore.Infrastructure.csproj|solutionrelative:src\\vehiclestore.infrastructure\\migrations\\20251106001936_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.core\\entities\\mediaasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|solutionrelative:src\\vehiclestore.core\\entities\\mediaasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.core\\entities\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|solutionrelative:src\\vehiclestore.core\\entities\\lead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.core\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80E687C-ED09-4C09-B98C-B1E8CC08BD8A}|src\\VehicleStore.Core\\VehicleStore.Core.csproj|solutionrelative:src\\vehiclestore.core\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{102FDFEE-55F7-4BA4-AB27-3A8929D2EFEA}|src\\VehicleStore.Infrastructure\\VehicleStore.Infrastructure.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{102FDFEE-55F7-4BA4-AB27-3A8929D2EFEA}|src\\VehicleStore.Infrastructure\\VehicleStore.Infrastructure.csproj|solutionrelative:src\\vehiclestore.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\wwwroot\\app\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\wwwroot\\app\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|c:\\users\\joser\\desktop\\proyecto\\tienda vehicular\\src\\vehiclestore.api\\models\\uploadmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BAE073F-3BAC-4B8A-936C-BF2BC89FEFD3}|src\\VehicleStore.Api\\VehicleStore.Api.csproj|solutionrelative:src\\vehiclestore.api\\models\\uploadmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VehicleDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Dtos\\VehicleDetailDto.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Dtos\\VehicleDetailDto.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Dtos\\VehicleDetailDto.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Dtos\\VehicleDetailDto.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:43:43.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleStore.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\VehicleStore.Api.csproj",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\VehicleStore.Api.csproj",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\VehicleStore.Api.csproj",
+              "RelativeToolTip": "src\\VehicleStore.Api\\VehicleStore.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T18:20:39.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FiltersController.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Controllers\\FiltersController.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Controllers\\FiltersController.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Controllers\\FiltersController.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Controllers\\FiltersController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwBsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:08:29.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MediaController.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Controllers\\MediaController.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Controllers\\MediaController.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Controllers\\MediaController.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Controllers\\MediaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:36:44.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T02:29:20.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Program.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:14:46.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:21:34.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehiclesAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Controllers\\VehiclesAdminController.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Controllers\\VehiclesAdminController.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Controllers\\VehiclesAdminController.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Controllers\\VehiclesAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:48:21.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "src\\VehicleStore.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:14:44.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\appsettings.json",
+              "RelativeToolTip": "src\\VehicleStore.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-02T18:20:01.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwv2MAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:45:59.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VehicleMapping.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Mapping\\VehicleMapping.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Mapping\\VehicleMapping.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Mapping\\VehicleMapping.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Mapping\\VehicleMapping.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAawEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:41:28.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleSpec.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\VehicleSpec.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Core\\Entities\\VehicleSpec.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\VehicleSpec.cs",
+              "RelativeToolTip": "src\\VehicleStore.Core\\Entities\\VehicleSpec.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:08:08.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VehicleModel.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\VehicleModel.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Core\\Entities\\VehicleModel.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\VehicleModel.cs",
+              "RelativeToolTip": "src\\VehicleStore.Core\\Entities\\VehicleModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:54:43.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Core\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "src\\VehicleStore.Core\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA4wBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:54:57.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VehicleSpecsDto.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Dtos\\VehicleSpecsDto.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Dtos\\VehicleSpecsDto.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Dtos\\VehicleSpecsDto.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Dtos\\VehicleSpecsDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:44:26.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "VehiclesFacetsController.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Controllers\\VehiclesFacetsController.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Controllers\\VehiclesFacetsController.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Controllers\\VehiclesFacetsController.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Controllers\\VehiclesFacetsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:50:47.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VehicleListItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Dtos\\VehicleListItemDto.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Dtos\\VehicleListItemDto.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Dtos\\VehicleListItemDto.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Dtos\\VehicleListItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:43:33.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Dtos\\PagedResult.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Dtos\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Dtos\\PagedResult.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Dtos\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:43:45.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MediaAsset.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\MediaAsset.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Core\\Entities\\MediaAsset.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\MediaAsset.cs",
+              "RelativeToolTip": "src\\VehicleStore.Core\\Entities\\MediaAsset.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:02:27.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251106001936_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Infrastructure\\Migrations\\20251106001936_Initial.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Infrastructure\\Migrations\\20251106001936_Initial.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Infrastructure\\Migrations\\20251106001936_Initial.cs",
+              "RelativeToolTip": "src\\VehicleStore.Infrastructure\\Migrations\\20251106001936_Initial.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T00:22:49.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Lead.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\Lead.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Core\\Entities\\Lead.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\Lead.cs",
+              "RelativeToolTip": "src\\VehicleStore.Core\\Entities\\Lead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:02:26.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\User.cs",
+              "RelativeToolTip": "src\\VehicleStore.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:14:27.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Core\\Entities\\Brand.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Core\\Entities\\Brand.cs",
+              "RelativeToolTip": "src\\VehicleStore.Core\\Entities\\Brand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:54:30.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\VehicleStore.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T00:22:58.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Auth\\TokenService.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Auth\\TokenService.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Auth\\TokenService.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Auth\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:21:10.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\wwwroot\\app\\index.html",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\wwwroot\\app\\index.html",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\wwwroot\\app\\index.html",
+              "RelativeToolTip": "src\\VehicleStore.Api\\wwwroot\\app\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-05T22:59:10.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAGcTAAAAAAAAAAAewHYTAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-02T18:27:03.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UploadMediaDto.cs",
+              "DocumentMoniker": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Models\\UploadMediaDto.cs",
+              "RelativeDocumentMoniker": "src\\VehicleStore.Api\\Models\\UploadMediaDto.cs",
+              "ToolTip": "C:\\Users\\joser\\Desktop\\Proyecto\\Tienda vehicular\\src\\VehicleStore.Api\\Models\\UploadMediaDto.cs",
+              "RelativeToolTip": "src\\VehicleStore.Api\\Models\\UploadMediaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:39:53.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

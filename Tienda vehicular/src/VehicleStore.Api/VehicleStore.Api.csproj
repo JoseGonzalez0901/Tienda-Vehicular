@@ -1,0 +1,77 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <!-- Rutas del frontend -->
+    <FrontendRoot>..\..\..\vehiculos-store-complete</FrontendRoot>
+    <FrontendDist>$(FrontendRoot)\dist</FrontendDist>
+    <SpaOutputPath>$(ProjectDir)wwwroot\app</SpaOutputPath>
+
+    <UserSecretsId>547d8fe2-e13c-474e-816a-4880335ec948</UserSecretsId>
+
+    <!-- Por defecto NO construye la SPA (desarrollo FE/BE separado) -->
+    <BuildSpa Condition="'$(BuildSpa)'==''">false</BuildSpa>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.*" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.*" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.*">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.*" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Serilog.AspNetCore" Version="9.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VehicleStore.Infrastructure\VehicleStore.Infrastructure.csproj" />
+    <ProjectReference Include="..\VehicleStore.Core\VehicleStore.Core.csproj" />
+  </ItemGroup>
+
+  <!-- Archivos resultantes del build de Vite (si existe dist) -->
+  <ItemGroup Condition="Exists('$(FrontendDist)')">
+    <FrontendFiles Include="$(FrontendDist)\**\*.*" />
+  </ItemGroup>
+
+  <!-- (Opcional) Construir la SPA SOLO cuando se pida (ej.: CI/publish) -->
+	<Target Name="BuildFrontend" BeforeTargets="Build;Publish">
+		<Message Text="Building frontend (Vite)..." Importance="High" />
+		<Exec WorkingDirectory="$(FrontendRoot)" Command="npm ci" />
+		<Exec WorkingDirectory="$(FrontendRoot)" Command="npm run build" />
+
+		<RemoveDir Directories="$(ProjectDir)wwwroot\app" />
+		<MakeDir Directories="$(ProjectDir)wwwroot\app" />
+
+		<Copy SourceFiles="@(FrontendFiles)" DestinationFiles="@(FrontendFiles->'$(ProjectDir)wwwroot\app\%(RecursiveDir)%(Filename)%(Extension)')" SkipUnchangedFiles="true" />
+	</Target>
+
+
+	<!-- Copia a wwwroot/app en builds locales si ya existe dist -->
+  <Target Name="CopyFrontendToWwwroot" AfterTargets="Build" Condition="Exists('$(FrontendDist)')">
+    <Message Text="Copying frontend assets to $(SpaOutputPath) ..." Importance="High" />
+    <!-- Limpia SOLO la carpeta de la SPA para no tocar /uploads -->
+    <RemoveDir Directories="$(SpaOutputPath)" Condition="Exists('$(SpaOutputPath)')" />
+    <MakeDir Directories="$(SpaOutputPath)" />
+    <Copy SourceFiles="@(FrontendFiles)" DestinationFiles="@(FrontendFiles -> '$(SpaOutputPath)\%(RecursiveDir)%(Filename)%(Extension)')" SkipUnchangedFiles="true" />
+  </Target>
+
+  <!-- Copia a la carpeta de publish cuando se publica -->
+  <Target Name="CopyFrontendOnPublish" AfterTargets="Publish" Condition="Exists('$(FrontendDist)')">
+    <Message Text="Copying frontend assets to publish output..." Importance="High" />
+    <RemoveDir Directories="$(PublishDir)wwwroot\app" Condition="Exists('$(PublishDir)wwwroot\app')" />
+    <MakeDir Directories="$(PublishDir)wwwroot\app" />
+    <Copy SourceFiles="@(FrontendFiles)" DestinationFiles="@(FrontendFiles -> '$(PublishDir)wwwroot\app\%(RecursiveDir)%(Filename)%(Extension)')" />
+  </Target>
+
+</Project>

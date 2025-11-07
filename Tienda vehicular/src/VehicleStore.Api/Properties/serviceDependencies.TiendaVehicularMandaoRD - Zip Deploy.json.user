@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2025-11-07T02:20:31.4773571Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2025-11-07T02:43:11.5887635Z"
+    }
+  },
+  "parameters": {
+    "apis1.resourceGroupName": {
+      "Name": "apis1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "rg-vehiclestore-prod"
+    },
+    "apis1.subscriptionId": {
+      "Name": "apis1.subscriptionId",
+      "Type": "subscription",
+      "Value": "34d78268-6e39-4fb2-93a6-20ba0a8e5b0c"
+    }
+  }
+}
